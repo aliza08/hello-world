@@ -1,4 +1,3 @@
-# hello-world
-I want to 'git' git hub but coding is not my cup of tea.
-I have to edit my readme becasue houston has a problem with it.
-I am going to edit this and houstons going to have to deal with it because im branching out my problem solving business!
+# Training
+
+[Paul_Copy_MASTER_RESBAZ_CAD_TRAINING_2016_Final.pdf](https://github.com/aliza08/Inventor-training-trial1/files/155964/Paul_Copy_MASTER_RESBAZ_CAD_TRAINING_2016_Final.pdf)
